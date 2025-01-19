@@ -157,11 +157,7 @@
   dependencies:
     fastify-plugin "^4.0.0"
 
-"@gadget-client/onemind@link:.gadget/client":
-  version "0.0.0"
-  uid ""
-
-"@gadget-client/school@link:.gadget/client":
+"@gadget-client/classmind@link:.gadget/client":
   version "0.0.0"
   uid ""
 

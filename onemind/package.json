@@ -1,14 +1,14 @@
 {
-  "name": "classmind",
+  "name": "school",
   "version": "0.1.0",
-  "description": "Internal package for Gadget app classmind (Development environment)",
+  "description": "Internal package for Gadget app school (Development environment)",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
     "build": "NODE_ENV=production vite build"
   },
   "dependencies": {
-    "@gadget-client/classmind": "link:.gadget/client",
+    "@gadget-client/school": "link:.gadget/client",
     "@gadgetinc/react": "^0.18.7",
     "gadget-server": "link:.gadget/server",
     "react": "^18.2.0",

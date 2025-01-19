@@ -9,8 +9,6 @@ export const run = async ({ params, record, logger, api, connections }) => {
   await save(record);
 };
 
-//testing Hello
-
 /** @type { ActionOnSuccess } */
 export const onSuccess = async ({ params, record, logger, api, connections }) => {
   // Your logic goes here
